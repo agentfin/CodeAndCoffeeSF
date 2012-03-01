@@ -1,6 +1,4 @@
-== Welcome to Rails
-
-This is the sandbox project #CodeAndCoffeeSF.
+== This is the sandbox project #CodeAndCoffeeSF.
 
 The idea here is to try out new skills and get them 
 up on the web to share and be seen.
@@ -14,6 +12,8 @@ We're hosted on Heroku <3
 We're powered by Celtic Coffee: http://www.celticcoffeecompany.com/
 
 . . . and now back to your regular programming... 
+
+== Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
